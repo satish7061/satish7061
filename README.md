@@ -1,6 +1,12 @@
-Hi, I'm Satish
+<h1 align="center">Hi there 👋, I'm <b>Satish Kumar</b></h1>
+<h3 align="center">A passionate full Stack developer from India</h3>
+<p> I am a Full stack developer, learning React🤟 with a passion for creativity and problem-solving, with a knack for building simple and user friendly websites without cutting short on functionality, design and speed.<br>
+I am discovering my path in 2022 and from now i will try my best to become a good full stack developer😍</p>
+<h5>Get to Know Me</h5>
+
+<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif" alt=".Gif" align="right" width="400"><br>
 # 💫 About Me:
-<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif" alt=".Gif" align="right" width="350"><br>🌱 I’m currently learning Web Developement<br><br>💬 Ask me about MERN<br><br>📫 How to reach me singhansatish@gmail.com<br><br>⚡ Fun fact I think I am funny XD
+<br>🌱 I’m currently learning Web Developement<br><br>💬 Ask me about MERN<br><br>📫 How to reach me singhansatish@gmail.com<br><br>⚡ Fun fact I think I am funny XD
 
 
 ## 🌐 Socials:
